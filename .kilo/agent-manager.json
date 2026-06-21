@@ -2,7 +2,7 @@
   "worktrees": {
     "wt-1782004635042-1": {
       "branch": "adaptive-dolomite",
-      "path": ".",
+      "path": "",
       "parentBranch": "main",
       "remote": "origin"
     }
